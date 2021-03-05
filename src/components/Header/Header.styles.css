@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    grid-row: 1 / 2;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--border-color);
+    align-items: center;
+    margin-bottom: .75rem;
+    
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+ul li {
+    list-style: none;
+    padding-left: .5rem;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary-font-color);
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 14px;   
+    letter-spacing: 1px;
+}
+
+.featured {
+    color: #ff5252;
+}
+
+.logo {
+    padding-left: 3rem;
+    text-transform: none;
+    font-size: 21px;
+    letter-spacing: -1px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.logo span {    
+    font-weight: normal;
+}
+
+.navigation {
+    padding-right: 3rem;
+}
