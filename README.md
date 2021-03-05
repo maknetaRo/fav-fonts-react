@@ -1,3 +1,7 @@
+# My learning project
+
+I want to clone the Google Fonts website, add Google Fonts API to learn React.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
